@@ -16,7 +16,7 @@ let Navbar = (props) => {
 
     return (
         <div
-            className={`flex justify-between bg-${props.bgcolor} items-center h-20 min-h-70 px-5 static lg:fixed lg:w-full lg:opacity-100 `}>
+            className={`flex justify-between bg-${props.bgcolor} items-center h-20 min-h-70 px-5 static lg:fixed lg:w-full lg:opacity-100 lg:z-10`}>
             {/*hamburger menu */}
             {/*<div className="menu md:w-32 lg:hidden text-left">Menu</div>*/}
             <button type="button" className="block lg:hidden " onClick={handleClick}>
