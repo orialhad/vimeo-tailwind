@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App]
 (https://github.com/facebook/create-react-app).
 # This project was created using Tailwind CSS 
 (https://tailwindcss.com/)
+
+
+Project is Vimeo main page with ReactJS and Tailwind CSS
+
+(https://vimeo.com/)
 ## Available Scripts
 
 In the project directory, you can run:
